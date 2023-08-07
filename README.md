@@ -5,3 +5,4 @@ inside card component I have one main div. I part the div in two part. one for c
 And pass the value (color and text) as props.
 4. Then I recive props inside Card component. 
 5. Finally upload the code in github and hosted it on vercel.
+6. https://reactassignment4.vercel.app/
